@@ -1,6 +1,6 @@
 #!/bin/bash
 git add --all
 echo "Enter your commit"
-read input
+read="input"
 git commit -m '${input}' 
 git push
