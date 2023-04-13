@@ -1,4 +1,2 @@
 #!/bin/bash
-echo "write filename"
-read name
-touch $name
+touch hello
