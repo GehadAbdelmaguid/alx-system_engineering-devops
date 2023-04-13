@@ -4,3 +4,4 @@ echo "Enter your commit"
 read MESSAGE
 git commit -m "$MESSAGE"
 git push
+
