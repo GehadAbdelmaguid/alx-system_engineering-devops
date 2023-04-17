@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 2 root root 261 Apr 16 23:05 .
+drwx--x--x 6 root root 121 Apr 16 20:33 ..
+-rwxr--r-- 1 root root  32 Apr 16 20:34 0-hello_world
+-rwxr-xr-x 1 root root  28 Apr 16 20:54 1-confused_smiley
+-rwxr-xr-x 1 root root  28 Apr 16 21:01 2-hellofile
+-rwxr-xr-x 1 root root  39 Apr 16 21:04 3-twofiles
+-rwxr-xr-x 1 root root  29 Apr 16 21:13 4-lastlines
+-rwxr-xr-x 1 root root  29 Apr 16 21:15 5-firstlines
+-rwxr-xr-x 1 root root  40 Apr 16 21:43 6-third_line
+-rwxr-xr-x 1 root root  36 Apr 16 23:05 8-cwd_state
+-rwx--x--x 1 root root  99 Apr 16 20:36 git,add,commit,push
+-rw-r--r-- 1 root root 801 Apr 16 21:37 iacta
+-rw-r--r-- 1 root root   0 Apr 16 23:05 ls_cwd_content
+-rwx--x--x 1 root root 106 Apr 16 20:36 newfile
+-rw-r--r-- 1 root root  23 Apr 16 20:41 README.md
